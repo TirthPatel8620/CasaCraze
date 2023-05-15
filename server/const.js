@@ -1,2 +1,2 @@
-const ip='https://192.168.137.194:38817/';
+const ip='';
 modules.export=ip;
